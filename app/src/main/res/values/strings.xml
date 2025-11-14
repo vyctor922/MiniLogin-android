@@ -1,0 +1,32 @@
+<resources>
+    <string name="app_name">MiniLogin</string>
+
+    <string name="hint_email">Email</string>
+    <string name="hint_senha">Senha</string>
+    <string name="btn_login">Login</string>
+    <string name="btn_ir_registro">Registrar-se</string>
+
+    <string name="registro">Registro</string>
+    <string name="btn_registrar">Registrar</string>
+    <string name="aceito_termos">Eu concordo com os termos de uso</string>
+
+    <string name="bem_vindo">Bem-vindo!</string>
+    <string name="usuario_desconhecido">Usuário%1$s</string>
+    <string name="btn_deletar_conta">Deletar Conta</string>
+
+    <string name="erro_campos_vazios">Preencha todos os campos</string>
+    <string name="erro_email_invalido">Email inválido</string>
+    <string name="erro_senha_curta">A senha deve ter pelo menos 6 caracteres</string>
+    <string name="erro_termos">Você precisa aceitar os termos</string>
+    <string name="erro_registro_existente">Não foi possível registrar (email pode já existir)</string>
+    <string name="sucesso_registro">Registrado com sucesso</string>
+    <string name="sucesso_login">Login bem-sucedido</string>
+    <string name="erro_login">Email ou senha incorretos</string>
+
+    <string name="confirmar_deletar_titulo">Confirmar</string>
+    <string name="confirmar_deletar_mensagem">Deseja realmente deletar sua conta?</string>
+    <string name="sim">Sim</string>
+    <string name="nao">Não</string>
+    <string name="sucesso_deletar">Conta deletada com sucesso</string>
+    <string name="erro_deletar">Não foi possível deletar a conta</string>
+</resources>
